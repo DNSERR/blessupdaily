@@ -1,4 +1,4 @@
-# Bless Up Studio
+# Bless Up Daily
 
 A curated collection of Chrome extensions designed to inspire, uplift, and deepen everyday life — one mindful moment at a time.
 
