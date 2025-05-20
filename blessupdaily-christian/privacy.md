@@ -43,5 +43,3 @@ Bless Up Daily exists solely to deliver one Bible verse each day, track sharing 
 
 ---
 
-> “This extension is designed to inspire — without compromise.”
-
