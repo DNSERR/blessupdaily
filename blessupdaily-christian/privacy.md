@@ -1,29 +1,47 @@
-Privacy Policy
+# Privacy Policy for Bless Up Daily – Christian Edition
 
-Bless Up Daily – Christian Edition
+At **Bless Up Daily**, your privacy is a sacred trust. This extension is designed to uplift your spirit without ever compromising your personal data.
 
-Bless Up Daily is a devotional Chrome extension designed to encourage and inspire—without collecting or storing your personal information.
+---
 
-What We Do Not Collect
+##  What We Don’t Collect
 
-We do not collect, store, or share:
+- No personally identifiable information (PII)
+- No browsing or location data
+- No email addresses or login credentials
+- No tracking, profiling, or analytics
 
-Personally identifiable information (name, email address, age, etc.)
-Location data, browsing history, or web activity
-Authentication details such as passwords or PINs
-Financial information or payment details
-Any form of personal communication or user-generated content
-How Your Data Is Handled
+---
 
-All sharing activity and badge progress is stored locally on your browser using Chrome's localStorage.
-No data is sent to our servers.
-We do not track, analyze, or transfer user data to any third party.
-Payment and Subscription
+##  What We Do Store
 
-If you choose to subscribe, payment is processed securely via Stripe.
-We do not have access to or store your payment information.
-Our Commitment
+- **Share count and badge progress**  
+  Stored *locally* on your device using Chrome’s `localStorage` or `chrome.storage`.  
+  This allows you to earn milestones privately—nothing leaves your browser.
 
-Bless Up Daily was created to deliver a meaningful daily experience while honoring your privacy.
-We believe inspiration should be free from tracking, surveillance, or intrusion.
+---
+
+##  Subscription and Payments
+
+- Payments are securely handled via [Stripe](https://stripe.com).
+- We do **not** access or store your payment information.
+- Stripe handles all financial processing independently.
+
+---
+
+##  No Server Communication
+
+- This extension does **not** connect to any external servers we control.
+- All verse content is stored in a local JavaScript file (`verses.js`).
+- Your data remains entirely within your Chrome browser.
+
+---
+
+## Purpose-Driven
+
+Bless Up Daily exists solely to deliver one Bible verse each day, track sharing milestones, and encourage faith. We do not use or transfer your data for any other purpose.
+
+---
+
+> “This extension is designed to inspire — without compromise.”
 
