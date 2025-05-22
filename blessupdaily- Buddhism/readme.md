@@ -1,9 +1,9 @@
-# Bless Up Daily – Buddhism Edition 🪷  
+# Bless Up Daily – Buddhism Edition 
 *A daily offering of Buddhist wisdom, designed to center your mind and uplift your spirit.*
 
 ---
 
-## ✨ Overview
+## Overview
 
 **Bless Up Daily – Buddhism Edition** is a minimalist Chrome extension that delivers one meaningful Buddhist quote, verse, or reflection each day. It's a simple, gentle tool to help you cultivate presence, compassion, and clarity—one popup at a time.
 
