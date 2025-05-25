@@ -2,8 +2,8 @@
 
 **Daily Qur’an Verses for Spiritual Reflection and Growth**
 
-A beautifully crafted Chrome extension that delivers a daily verse from the Qur’an in Arabic and English. Designed for Muslims seeking daily connection with the Qur’an, this extension offers a peaceful, ad-free experience with inspiring verse reminders, motivational badges, and easy sharing options.
-
+A simple and beautifully crafted Chrome extension that delivers a daily verse from the Qur’an in Arabic and English. Designed for Muslims seeking daily connection with the Qur’an, this extension offers a peaceful, ad-free experience with inspiring verse reminders, motivational badges, and easy sharing options.
+Currently in the Chrome Store:  https://chromewebstore.google.com/detail/bless-up-daily-–-islam-ed/finnefngkafjkkolallelogcbbbecgai
 ---
 
 ## Features
