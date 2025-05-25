@@ -3,6 +3,7 @@
 
 *Bless Up Daily* is a thoughtfully designed Chrome extension that offers a moment of spiritual reflection each day through the timeless wisdom of Scripture. With a single verse delivered daily, this extension gently encourages users to center their thoughts, share inspiration, and mark meaningful progress through acts of kindness.
 
+Currently in the Chrome Store: https://chromewebstore.google.com/detail/bless-up-daily-–-christia/magbenbjnljbkhdfjkdfgdeaiacelboj
 ---
 
 ### Features
