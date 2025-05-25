@@ -48,16 +48,15 @@ This unique Chrome extension delivers uplifting spiritual messages, blessings, a
 
 ## Pricing & Free Trial
 
-- **5 Days FREE:** Experience daily blessings at no cost.
-- **Full Access:** After your trial, unlock the entire year of daily inspiration and all features for just $3.99 (or $4.99).  
+- **7 Days FREE:** Experience daily blessings at no cost.
+- **Full Access:** After your trial, unlock the entire year of daily inspiration and all features for just $3.99 
   One-time purchase. Unlimited access to 365 days of wisdom and all future updates.
 
 ---
 
 ## Get Started Today
 
-Transform your daily routine with a touch of divine inspiration.  
-**[Add to Chrome]**
+
 
 If you love Balaji & Beyond, please leave us a 5-star review on the Chrome Web Store. Your feedback helps us bring uplifting Hindu wisdom to more families around the world.
 
@@ -67,6 +66,8 @@ If you love Balaji & Beyond, please leave us a 5-star review on the Chrome Web S
 Hindu daily quotes, Tamil spiritual extension, Venkatesa blessings, Murugan wisdom, Perumal affirmations, family-friendly Chrome extension, daily inspiration, gratitude, mindfulness, Hindu culture for kids, bilingual Tamil English, spiritual popup, positive mindset, offline spiritual quotes
 
 ---
+
+Balaji & Beyond – Where every day begins with a blessing!
 
 Balaji & Beyond – Where every day begins with a blessing!
 
