@@ -35,18 +35,6 @@ This unique Chrome extension delivers uplifting spiritual messages, blessings, a
 - **Search & Browse Past Verses**  
   Missed a day or want to reflect on a previous blessing? Use the intuitive archive to browse and rediscover timeless Hindu wisdom.
 
-- **Offline Access**  
-  Once loaded, you can view daily inspiration and saved favorites even without an internet connection—ensuring uninterrupted spiritual upliftment.
-
-- **Family-Friendly, All Ages**  
-  Designed with love for children and adults alike, this extension is a gentle introduction to Hindu traditions and spiritual quotes, fostering positive values at home.
-
-- **Promotes Positive Mindset & Gratitude**  
-  Fill your heart with thankfulness and your mind with peace through our carefully curated daily affirmations.
-
----
-
-## Pricing & Free Trial
 
 - **7 Days FREE:** Experience daily blessings at no cost.
 -
