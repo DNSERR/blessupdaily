@@ -17,15 +17,6 @@
 3. Nikmati pesan inspiratif harian dalam Bahasa Indonesia.
 4. Klik tombol bagikan untuk menyebarkan semangat positif ke orang lain.
 
-## Contoh Pesan Harian
-
-> _"Sesungguhnya bersama kesulitan ada kemudahan."_  
-> (QS. Al-Insyirah: 6)
-
-> _"Berdoalah kepada-Ku, niscaya akan Aku kabulkan untukmu."_  
-> (QS. Ghafir: 60)
-
-> _"Jangan pernah menyerah, karena Allah selalu bersama orang-orang yang sabar."_
 
 ## Kontribusi
 
