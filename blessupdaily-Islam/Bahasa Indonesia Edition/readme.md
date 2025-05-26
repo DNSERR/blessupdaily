@@ -22,11 +22,7 @@
 
 Jika Anda ingin menambahkan kutipan, memperbaiki terjemahan, atau membantu pengembangan, silakan buat pull request atau hubungi pengembang.
 
-## Lisensi
 
-MIT License
-
----
 
 ## About Bless Up Daily (English)
 
