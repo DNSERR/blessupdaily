@@ -49,11 +49,7 @@ This unique Chrome extension delivers uplifting spiritual messages, blessings, a
 ## Pricing & Free Trial
 
 - **7 Days FREE:** Experience daily blessings at no cost.
-- **Full Access:** After your trial, unlock the entire year of daily inspiration and all features for just $3.99 
-  One-time purchase. Unlimited access to 365 days of wisdom and all future updates.
-
----
-
+-
 ## Get Started Today
 
 
