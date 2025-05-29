@@ -1,3 +1,6 @@
+Currently in the Chrome Store: https://chromewebstore.google.com/detail/bless-up-daily-%E2%80%93-islam-ba/aeifhfohimejpkglcdnnmcbhkmlffdfl
+
+
 # Bless Up Daily (Bahasa Indonesia Edition)
 
 **Bless Up Daily** adalah ekstensi Chrome yang menghadirkan momen inspirasi setiap hari dalam Bahasa Indonesia. Setiap hari, Anda akan menerima ayat, doa, atau kutipan bijak yang dipilih dengan hati-hati dari berbagai sumber suci dan tradisi spiritual—memberikan semangat, ketenangan, dan harapan untuk hari Anda.
