@@ -51,9 +51,7 @@ Hindu daily quotes, Tamil spiritual extension, Venkatesa blessings, Murugan wisd
 
 ---
 
-Balaji & Beyond – Where every day begins with a blessing!
-
-Balaji & Beyond – Where every day begins with a blessing!
+![Balaji Illustration](balaji1.png)
 
 ---
 
