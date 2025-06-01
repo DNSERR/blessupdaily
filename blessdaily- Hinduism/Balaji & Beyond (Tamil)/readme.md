@@ -23,3 +23,4 @@ Balaji & Beyond delivers a joyful dose of wisdom directly to your browser each d
 
 - After installation, the extension automatically triggers a daily popup—no setup needed.
 - Click the icon at any time to revisit past verses.
+![Balaji Illustration](balaji1.png)
