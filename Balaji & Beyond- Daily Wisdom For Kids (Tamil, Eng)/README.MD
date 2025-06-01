@@ -50,10 +50,4 @@ If you love Balaji & Beyond, please leave us a 5-star review on the Chrome Web S
 Hindu daily quotes, Tamil spiritual extension, Venkatesa blessings, Murugan wisdom, Perumal affirmations, family-friendly Chrome extension, daily inspiration, gratitude, mindfulness, Hindu culture for kids, bilingual Tamil English, spiritual popup, positive mindset, offline spiritual quotes
 
 ---
-
 ![Balaji Illustration](balaji1.png)
-
----
-
-For support, suggestions, or feedback, please contact us at [your support email or website].
-
