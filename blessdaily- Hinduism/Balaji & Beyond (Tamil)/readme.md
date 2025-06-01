@@ -18,9 +18,4 @@ Balaji & Beyond delivers a joyful dose of wisdom directly to your browser each d
 - **Simple Popup Interface**  
   Once installed, Balaji & Beyond shows a gentle notification and popup on your Chromebook or desktop, making it easy for kids to read and reflect.
 
-
-## Usage
-
-- After installation, the extension automatically triggers a daily popup—no setup needed.
-- Click the icon at any time to revisit past verses.
 ![Balaji Illustration](balaji1.png)
